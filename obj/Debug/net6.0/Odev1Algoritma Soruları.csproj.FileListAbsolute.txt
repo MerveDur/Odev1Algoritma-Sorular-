@@ -1,0 +1,15 @@
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\bin\Debug\net6.0\Odev1Algoritma Soruları.exe
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\bin\Debug\net6.0\Odev1Algoritma Soruları.deps.json
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\bin\Debug\net6.0\Odev1Algoritma Soruları.runtimeconfig.json
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\bin\Debug\net6.0\Odev1Algoritma Soruları.dll
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\bin\Debug\net6.0\Odev1Algoritma Soruları.pdb
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.csproj.AssemblyReference.cache
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.AssemblyInfoInputs.cache
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.AssemblyInfo.cs
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.dll
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\refint\Odev1Algoritma Soruları.dll
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.pdb
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\Odev1Algoritma Soruları.genruntimeconfig.cache
+C:\Users\Merve\Desktop\Pratikler\Odev1Algoritma Soruları\obj\Debug\net6.0\ref\Odev1Algoritma Soruları.dll
