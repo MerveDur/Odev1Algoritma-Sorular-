@@ -14,7 +14,6 @@ namespace HelloWorld
             {
                 for(i=0;i<n;i++)
                 {
-                    
                     num =Convert.ToInt32(Console.ReadLine());
                     numbers[i]=num;
                 }
@@ -25,10 +24,8 @@ namespace HelloWorld
                     {    
                         Console.WriteLine(numbers[i]+" ");                    
                     }
-                }
-                
+                } 
             }
-            
         }
     }
 }
